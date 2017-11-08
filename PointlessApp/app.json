@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "Pointless Button",
+    "description": "Pointless app for the PointlessButton service",
+    "slug": "pointlessbutton",
+    "privacy": "public",
+    "sdkVersion": "22.0.0",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#0F1F2B"
+    },
+    "packagerOpts": {
+      "assetExts": ["ttf", "mp4"]
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
